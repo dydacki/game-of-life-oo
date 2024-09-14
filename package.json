@@ -1,0 +1,17 @@
+{
+  "name": "new-tsnode-project",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "server": "npx live-server"
+  },
+  "author": "wojciech dydacki",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "typescript": "^5.6.2"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
